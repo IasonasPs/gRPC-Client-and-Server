@@ -21,7 +21,8 @@ namespace GrpcGreeter.Services
             GrpcServiceIndex++;
             return Task.FromResult(new HelloReply
             {
-                Message = $"Grpc Service Index is : {GrpcServiceIndex.ToString()}",
+                Message = $"Grpc Service Index is : {GrpcServiceIndex.ToString()}\n " +
+                $"Or\nThe GreeterService has been called {GrpcServiceIndex.ToString()} times",
             });
         }
     }

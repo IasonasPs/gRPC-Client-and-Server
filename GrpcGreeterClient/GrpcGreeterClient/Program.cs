@@ -14,7 +14,6 @@ namespace GrpcGreeterClient
 
             var client = new Greeter.GreeterClient(channel);
 
-
             bool control = true;
 
             while (control)
@@ -30,7 +29,6 @@ namespace GrpcGreeterClient
                 Console.WriteLine(reply.Message);
                 Console.WriteLine("- - - - - - - - - - - - - - - - - - ");
             }
-
         }
     }
 }

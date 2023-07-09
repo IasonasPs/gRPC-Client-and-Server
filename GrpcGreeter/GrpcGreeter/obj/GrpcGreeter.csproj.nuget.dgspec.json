@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iasonas.psomadakis\\OneDrive - PeopleCert Network\\Documents\\repos\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj": {}
+    "C:\\Users\\iasonas.psomadakis\\Desktop\\gRPC\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iasonas.psomadakis\\OneDrive - PeopleCert Network\\Documents\\repos\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj": {
+    "C:\\Users\\iasonas.psomadakis\\Desktop\\gRPC\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iasonas.psomadakis\\OneDrive - PeopleCert Network\\Documents\\repos\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj",
+        "projectUniqueName": "C:\\Users\\iasonas.psomadakis\\Desktop\\gRPC\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj",
         "projectName": "GrpcGreeter",
-        "projectPath": "C:\\Users\\iasonas.psomadakis\\OneDrive - PeopleCert Network\\Documents\\repos\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj",
+        "projectPath": "C:\\Users\\iasonas.psomadakis\\Desktop\\gRPC\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj",
         "packagesPath": "C:\\Users\\iasonas.psomadakis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iasonas.psomadakis\\OneDrive - PeopleCert Network\\Documents\\repos\\GrpcGreeter\\GrpcGreeter\\obj\\",
+        "outputPath": "C:\\Users\\iasonas.psomadakis\\Desktop\\gRPC\\GrpcGreeter\\GrpcGreeter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L0FfgFAxxjl+7BZJBHchYBQ6ZNiM9s1lYNx6O5ZeGT8a5g1xTqJ1DPjQXSQ9GAHSYkG7Uksmb9OgouFwOQ2GFw==",
+  "dgSpecHash": "J1r+06gBXKqbQ5u+zbNT2T+pF/vQoNLVx6TEw+KRWC/mI+OVoSCScMPzmb1vRnDGmh8KEj02iOv0sCjPMbd9hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iasonas.psomadakis\\OneDrive - PeopleCert Network\\Documents\\repos\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj",
+  "projectFilePath": "C:\\Users\\iasonas.psomadakis\\Desktop\\gRPC\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iasonas.psomadakis\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
     "C:\\Users\\iasonas.psomadakis\\.nuget\\packages\\grpc.aspnetcore\\2.49.0\\grpc.aspnetcore.2.49.0.nupkg.sha512",

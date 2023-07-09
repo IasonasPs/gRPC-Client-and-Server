@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C58m2RHflJPzRbcZcaXnfWJNZiEEVk1K2g0g9y+cNdDeS1KiJN+Bmynr47oFj5zdDqURrOVrg1sGe/1gew6lSg==",
+  "dgSpecHash": "6TYAI5N9924Mx+wBvBif1CiMvyiX1rWXTQ9WJ0FGJobCsiuXnbeykg7TUbUl/6aVbQoNfSz2D6RKgYOyx9xB9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iasonas.psomadakis\\OneDrive - PeopleCert Network\\Documents\\repos\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+  "projectFilePath": "C:\\Users\\iasonas.psomadakis\\Desktop\\gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iasonas.psomadakis\\.nuget\\packages\\google.protobuf\\3.23.4\\google.protobuf.3.23.4.nupkg.sha512",
     "C:\\Users\\iasonas.psomadakis\\.nuget\\packages\\grpc.core.api\\2.55.0\\grpc.core.api.2.55.0.nupkg.sha512",
